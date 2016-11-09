@@ -1,0 +1,4 @@
+This is a plain text file, with no formatting. 
+
+I just created it so that you can see what the unix commands
+more and ls do.
